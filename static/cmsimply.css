@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background-image: url('http://pic.sc.chinaz.com/files/pic/pic9/201801/bpic5184.jpg');
+  background-image:url("https://img.heypik.com/58pic/26/29/27/58cfd65493d1e_1024.jpg?x-oss-process=image/watermark,image_c2h1aXlpbl9uZXcucG5n,g_center");
   padding: 10px;
 }
 confmenu
@@ -24,11 +24,11 @@ confmenu ul li
 }
 confmenu li a
 {
-	display: block;
+	display: red;
 	float: left;
 	padding: 5px 10px;
 	color: #fff;
-	background: #333;
+	background: #08f;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -201,6 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
-  margin-bottom: 120px;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIKLS0_HGTvxmnON_29n10CdJhCqLI-37l0WtRfLoe5y3HUn5b8w");
+  background-size: 500px 300px;
 }
 
