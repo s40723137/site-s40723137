@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'IWS 2000'
-SITENAME = '雞(機)舍(設)系養雞網誌'
+AUTHOR = 's40723137'
+SITENAME = '雞(機)舍(設)系40723137的養雞網誌'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
