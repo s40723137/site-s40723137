@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'KMOL'
-SITENAME = '機械設計工程系 2018 Fall 分組網誌'
+AUTHOR = 'IWS 2000'
+SITENAME = '雞(機)舍(設)系養雞網誌'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
