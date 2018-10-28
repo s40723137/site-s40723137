@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background-image:url("https://img.heypik.com/58pic/26/29/27/58cfd65493d1e_1024.jpg?x-oss-process=image/watermark,image_c2h1aXlpbl9uZXcucG5n,g_center");
+  background: #ccc;
   padding: 10px;
 }
 confmenu
@@ -28,7 +28,7 @@ confmenu li a
 	float: left;
 	padding: 5px 10px;
 	color: #fff;
-	background: #08f;
+	background: #000;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -201,7 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
-  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIKLS0_HGTvxmnON_29n10CdJhCqLI-37l0WtRfLoe5y3HUn5b8w");
-  background-size: 500px 300px;
+  background:#ffffff
+  padding: 10px;
 }
 
