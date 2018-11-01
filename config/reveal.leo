@@ -21,13 +21,16 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20181101211331.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181101211331.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -135,15 +138,10 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 這是一個投影片
 
-### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [文辰](https://www.facebook.com/profile.php?id=100003863672232)
-&lt;/small&gt;
 
-[2018 Fall 網誌](./../blog/index.html)
 
 
 </t>
@@ -413,6 +411,27 @@ make.start()
 ### 導入影片 template
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181101211331.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101211331.2">## 2018Fall 分組網際簡報
+
+### 虎科大機械設計工程系 40723137
+
+&lt;small&gt;
+Created by [文辰(40723137)](https://www.facebook.com/profile.php?id=100003863672232)
+&lt;/small&gt;
+
+[2018 Fall 網誌](./../blog/index.html)
+
+
 </t>
 </tnodes>
 </leo_file>
