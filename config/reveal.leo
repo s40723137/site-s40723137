@@ -220,8 +220,8 @@ make.start()
 
 ### 導入影片 template
 
-&lt;iframe src="https://www.youtube.com/watch?v=ax2ZuPm3YXc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+
+&lt;iframe src="https://player.vimeo.com/video/299723614?byline=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -362,8 +362,10 @@ Created by [文辰(40723137)](https://www.facebook.com/profile.php?id=1000038636
 
 						
 </t>
-<t tx="leo.20181108230018.1">### 教學影片
+<t tx="leo.20181108230018.1">### Week1
 
-&lt;iframe src="https://www.youtube.com/watch?v=ax2ZuPm3YXc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+
+
+</t>
 </tnodes>
 </leo_file>
