@@ -24,7 +24,7 @@
 <v t="leo.20181101211331.1"><vh>封面投影片</vh>
 <v t="leo.20181101211331.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102140324.1" a="E"><vh>機械設計的精神</vh>
+<v t="leo.20181102140324.1"><vh>機械設計的精神</vh>
 <v t="leo.20181102140324.2"><vh>投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.9"><vh>投影片快捷鍵</vh>
@@ -303,7 +303,7 @@ make.start()
 @others
 &lt;/div&gt;
 
-</t>
+file:///D:/2018fall/p37/tmp/site-s40723137/config/content.db</t>
 <t tx="leo.20180827201621.9">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
