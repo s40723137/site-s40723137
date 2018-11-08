@@ -30,7 +30,10 @@
 <v t="leo.20180827201621.9"><vh>投影片快捷鍵</vh>
 <v t="leo.20180827201621.10"><vh>快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20181108230007.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108230018.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -217,7 +220,7 @@ make.start()
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://www.youtube.com/watch?v=ax2ZuPm3YXc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -303,7 +306,8 @@ make.start()
 @others
 &lt;/div&gt;
 
-file:///D:/2018fall/p37/tmp/site-s40723137/config/content.db</t>
+
+</t>
 <t tx="leo.20180827201621.9">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -349,5 +353,17 @@ Created by [文辰(40723137)](https://www.facebook.com/profile.php?id=1000038636
 
 
 </t>
+<t tx="leo.20181108230007.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108230018.1">### 教學影片
+
+&lt;iframe src="https://www.youtube.com/watch?v=ax2ZuPm3YXc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>

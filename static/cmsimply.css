@@ -27,8 +27,8 @@ confmenu li a
 	display: red;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
-	background: #000;
+	color: #020101;
+	background: #228af9;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }

@@ -20,10 +20,10 @@
 <v t="leo.20170908162839.1" a="E"><vh>沒有 disqus 論壇</vh>
 <v t="yen.20170108171733.2"><vh>@button local-blog</vh></v>
 </v>
-<v t="leo.20170908162904.1" a="E"><vh>有 disqus 論壇</vh>
+<v t="leo.20170908162904.1"><vh>有 disqus 論壇</vh>
 <v t="leo.20170709224430.1"><vh>@button github-blog</vh></v>
 </v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="leo.20170709020600.1"><vh>共用</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 <v t="leo.20170709015947.1"><vh>遠端</vh></v>
@@ -31,15 +31,15 @@
 <v t="leo.20170709015940.1"><vh>近端</vh></v>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
-<v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
-<v t="leo.20180115093448.1" a="E"><vh>@path theme/attila/templates</vh>
+<v t="yen.20170224232341.1"><vh>編輯 template</vh>
+<v t="leo.20180115093448.1"><vh>@path theme/attila/templates</vh>
 <v t="leo.20180715212936.1"><vh>@edit article.html</vh></v>
 <v t="leo.20180115093536.1"><vh>@edit base.html</vh></v>
 <v t="leo.20180115093657.1"><vh>@edit search.html</vh></v>
 <v t="leo.20180115093715.1"><vh>@edit archives.html</vh></v>
 <v t="leo.20180715212745.1"><vh>@edit categories.html</vh></v>
 <v t="leo.20180715212902.1"><vh>@edit index.html</vh></v>
-<v t="leo.20180115093726.1" a="E"><vh>@path partials</vh>
+<v t="leo.20180115093726.1"><vh>@path partials</vh>
 <v t="leo.20180115093749.1"><vh>@edit navigation.html</vh></v>
 </v>
 <v t="leo.20180115142025.1"><vh>保留之前舊的設定檔案</vh></v>
@@ -53,11 +53,17 @@
 <v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
 </v>
 </v>
-<v t="leo.20170710015511.1" a="E"><vh>編輯 plugin</vh>
+<v t="leo.20170710015511.1"><vh>編輯 plugin</vh>
 <v t="leo.20170710015523.1" a="E"><vh>@path plugin</vh>
 <v t="leo.20170710015523.2" a="E"><vh>@path tipue_search</vh>
 <v t="leo.20170710015523.3"><vh>@edit tipue_search.py</vh></v>
 </v>
+</v>
+</v>
+<v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
+<v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
+<v t="leo.20180115115910.1"><vh>2018</vh></v>
+<v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path markdown</vh>
@@ -66,13 +72,6 @@
 </v>
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
-<v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
-<v t="leo.20180115115910.1" a="E"><vh>2018</vh>
-<v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
-</v>
-</v>
-</v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
